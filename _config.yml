@@ -1,0 +1,24 @@
+title: Win the Database platform - PosgreSQL AI
+description: In this course, participants will learn to Accelerate migrations and drive app growth leveraging PostgreSQL AI capabilities.
+theme: just-the-docs
+
+aux_links:
+  "Win the Database platform - PosgreSQL AI": 
+    - "https://github.com/microsoft/TechExcel-Win-the-database-platform-2"
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note 
+    color: purple
+  warning:
+    title: Warning
+    color: red
