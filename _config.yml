@@ -4,7 +4,7 @@ theme: just-the-docs
 
 aux_links:
   "Win the Database platform - PosgreSQL AI": 
-    - "https://github.com/microsoft/TechExcel-Win-the-database-platform-2"
+    - "https://github.com/microsoft/TechExcel-Posgres-AI"
 
 callouts_level: quiet # or loud
 callouts:
